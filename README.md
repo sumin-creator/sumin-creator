@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm [Your Name], a researcher at the **Autonomous Engineering Laboratory** at **Hokkaido University** 🏫.  
+Hi there! I'm sumino, a researcher at the **Autonomous Engineering Laboratory** at **Hokkaido University** 🏫.  
 I'm passionate about **Machine Learning** and **Autonomous Systems**, and I work on various projects related to data analysis, algorithm development, and autonomous engineering systems 🤖.
 
 ## 🚀 My Research
@@ -35,13 +35,6 @@ During my time at **Hokkaido University**, I've had the opportunity to learn and
 When I'm not working on machine learning or robotics, I’m a big fan of **VOCALOID**! 🎤 I’ve been challenging myself to create original compositions and experiment with music production. Additionally, I enjoy playing the **guitar** 🎸, which has been a great way to relax and express my creativity.
 
 ---
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
-
 ### 📝 Let's Connect!
 
 I’m always excited to collaborate with like-minded researchers and developers. Feel free to check out my work and get in touch if you’re interested in exploring new ideas or collaborating on projects!
