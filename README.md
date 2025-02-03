@@ -1,11 +1,13 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm sumino, a researcher at the **Autonomous Engineering Laboratory** at **Hokkaido University** 🏫.  
+Hi there! I'm [Your Name], a researcher at the **Autonomous Engineering Laboratory** at **Hokkaido University** 🏫.  
 I'm passionate about **Machine Learning** and **Autonomous Systems**, and I work on various projects related to data analysis, algorithm development, and autonomous engineering systems 🤖.
 
 ## 🚀 My Research
 
 At the **Autonomous Engineering Laboratory** in Hokkaido University, I focus on research in **Machine Learning** applied to autonomous systems and robotics. My work includes building models that can optimize decision-making and improve efficiency in complex environments. I’m particularly interested in exploring **reinforcement learning**, **neural networks**, and **deep learning** algorithms in various real-world applications.
+
+Additionally, I have a growing interest in **speech recognition**. Although it is still in its early stages, I am exploring how voice data can be integrated into autonomous systems for more natural human-machine interaction.
 
 ---
 
@@ -28,20 +30,19 @@ During my time at **Hokkaido University**, I've had the opportunity to learn and
 
 ---
 
+## 🎶 Fun Fact
+
+When I'm not working on machine learning or robotics, I’m a big fan of **VOCALOID**! 🎤 I’ve been challenging myself to create original compositions and experiment with music production. Additionally, I enjoy playing the **guitar** 🎸, which has been a great way to relax and express my creativity.
+
+---
+
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
-## 🌐 Connect with Me!
+### 📝 Let's Connect!
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Twitter: [@your-username](https://twitter.com/your-username)
+I’m always excited to collaborate with like-minded researchers and developers. Feel free to check out my work and get in touch if you’re interested in exploring new ideas or collaborating on projects!
 
----
-
-### 📝 Fun Fact
-
-Apart from my work in machine learning and robotics, I enjoy [insert hobby or interest here]. I am always looking to collaborate with like-minded researchers and developers to explore innovative solutions in the world of autonomous systems and AI. Feel free to reach out if you're interested in discussing research or potential collaborations! 😊
