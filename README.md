@@ -15,8 +15,8 @@ Additionally, I have a growing interest in **acoustic engineering**. I am explor
 
 During my time at **Hokkaido University**, I've had the opportunity to learn and work with several programming languages, each suited for different kinds of tasks:
 
-- **C/C++**: Used for hardware-related and performance-intensive tasks in robotics and embedded systems.
-- **Python**: My go-to language for machine learning and data analysis. I use libraries like **NumPy**, **Pandas**, **Scikit-learn**, and **TensorFlow** to work with large datasets and build predictive models.
+- **C/C++**: Primarily used for learning algorithms and writing fundamental code to understand core programming concepts.
+- **Python**: My go-to language for machine learning and data analysis, with a strong focus on **PyTorch** for deep learning and model development. I frequently work with libraries like **NumPy**, **Pandas**, and **Scikit-learn** to process large datasets and build predictive models.
 - **MATLAB**: A great tool for mathematical modeling, especially in simulations for control systems and algorithms.
 - **Java**: I’ve used Java for object-oriented programming projects and backend development.
 - **Ruby**: I have experience writing simple and efficient code in Ruby, primarily used for web application development. I have worked with **Ruby on Rails** for backend development and API implementation.
