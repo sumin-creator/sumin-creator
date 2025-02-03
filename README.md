@@ -19,7 +19,7 @@ During my time at **Hokkaido University**, I've had the opportunity to learn and
 - **Python**: My go-to language for machine learning and data analysis. I use libraries like **NumPy**, **Pandas**, **Scikit-learn**, and **TensorFlow** to work with large datasets and build predictive models.
 - **MATLAB**: A great tool for mathematical modeling, especially in simulations for control systems and algorithms.
 - **Java**: I’ve used Java for object-oriented programming projects and backend development.
-- - **Ruby**: I have experience writing simple and efficient code in Ruby, primarily used for web application development. I have worked with **Ruby on Rails** for backend development and API implementation.
+- **Ruby**: I have experience writing simple and efficient code in Ruby, primarily used for web application development. I have worked with **Ruby on Rails** for backend development and API implementation.
 
 ---
 
