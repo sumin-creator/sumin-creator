@@ -5,7 +5,7 @@ I'm passionate about **Machine Learning** and **Autonomous Systems**, and I work
 
 ## 🚀 My Research
 
-At the **Autonomous Engineering Laboratory** in Hokkaido University, I focus on research in **Machine Learning** applied to autonomous systems and robotics. My work includes building models that can optimize decision-making and improve efficiency in complex environments. I’m particularly interested in exploring **reinforcement learning**, **neural networks**, and **deep learning** algorithms in various real-world applications.
+I focus on research in **Machine Learning** applied to autonomous systems and robotics. My work includes building models that can optimize decision-making and improve efficiency in complex environments. I’m particularly interested in exploring **reinforcement learning**, **neural networks**, and **deep learning** algorithms in various real-world applications.
 
 Additionally, I have a growing interest in **acoustic engineering**. I am exploring how machine learning and signal processing techniques can be applied to the analysis and enhancement of sound, with potential applications in speech recognition and other audio-related fields.
 
