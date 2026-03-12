@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 Hi there! I'm sumino, a researcher at the **Autonomous Engineering Laboratory** at **Hokkaido University** 🏫.  
-I'm passionate about **Machine Learning** and **Autonomous Systems**, and I work on various projects related to data analysis, algorithm development, and autonomous engineering systems 🤖.
+I'm passionate about **Machine Learning** , and I work on various projects related to data analysis, algorithm development, and autonomous engineering systems 🤖.
 
 ## 🚀 My Research
 
